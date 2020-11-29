@@ -1,0 +1,12 @@
+---
+:id: 48577977
+:submitters:
+- :name: Stephano Fabrizio Württele Igari
+  :email: stephano.wurttele@utec.edu.pe
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-10-10 03:21:34.756217000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-10-09 20:21:34.756217000 Z
+:status: processed
+:score: 20.0
